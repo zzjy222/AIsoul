@@ -1,0 +1,3 @@
+*.js.br   binary
+*.wasm.br binary
+*.data.br binary
